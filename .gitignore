@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
+
+# Take-home assessment materials (not for redistribution)
+*.pdf
+assestment.md
+CLAUDE.md
